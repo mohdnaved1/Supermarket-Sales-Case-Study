@@ -1,4 +1,4 @@
-### 🛍️ Supermarket Sales Case Study (Myanmar, 2019)
+## 🛍️ Supermarket Sales Case Study (Myanmar, 2019)
 
 #### 📌 Project Overview
 * This project presents an exploratory data analysis (EDA) of supermarket sales data from a fictional chain operating in three cities in Myanmar during 2019.
@@ -49,3 +49,10 @@
 * Electronic accessories and food & beverages generate the highest revenue.
 * Weekends show a noticeable spike in transactions, indicating opportunities for time-specific promotions.
 * Most purchases are made during the evening hours, suggesting targeted ad campaigns during this window.
+
+#### ✅ Business Recommendations
+* 📢 Prioritize promotions in Yangon, particularly for best-selling product lines.
+* 🧠 Leverage customer rating and feedback data to enhance product quality.
+* ⏰ Focus marketing efforts during peak shopping hours and weekends.
+* 💳 Offer incentives for underused payment methods to diversify payment behavior.
+
